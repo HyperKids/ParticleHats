@@ -1,0 +1,9 @@
+.metadata/
+.recommenders/
+ParticleHats/.classpath
+ParticleHats/.project
+ParticleHats/.settings
+ParticleHats/target
+Builds/
+Compatability/
+.idea/
